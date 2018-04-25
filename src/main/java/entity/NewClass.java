@@ -21,6 +21,6 @@ public class NewClass
     
     public String doubleUp()
     {
-        return someText + someText;
+        return someText + "" + someText;
     }
 }
