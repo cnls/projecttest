@@ -23,7 +23,7 @@ public class ServletWelcome extends HttpServlet
             out.println("<!DOCTYPE html>");
             out.println("<html>");
             out.println("<head>");
-            out.println("<title>projecttest-WELCOME</title>");            
+            out.println("<title>projecttest-WELCOME-projecttest</title>");            
             out.println("</head>");
             out.println("<body>");
             out.println("<h1>Servlet ServletWelcome at " + request.getContextPath() + "</h1>");
